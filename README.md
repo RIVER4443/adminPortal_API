@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/114768995/271792226-82d501fb-9197-4887
 
 # 🖥️Screenshot:
 
-![maxresdefault]https://camo.githubusercontent.com/0eb579aec8c83b312b94cba1f531c6814d0f8e590f27a924d02665e34eddef96/68747470733a2f2f692e696d6775722e636f6d2f4c6b5979644a4a2e6a7067)
+![maxresdefault](https://camo.githubusercontent.com/0eb579aec8c83b312b94cba1f531c6814d0f8e590f27a924d02665e34eddef96/68747470733a2f2f692e696d6775722e636f6d2f4c6b5979644a4a2e6a7067)
 
 # 📣Info
 
